@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://raw.githubusercontent.com/lemon-332/lemon-332/main/assets/github-contribution-grid-snake.svg)
 <!--
 **lemon-332/lemon-332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
