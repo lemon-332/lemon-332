@@ -9,6 +9,8 @@
 <table border=0>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=lemon-332&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="HuiDBK's GitHub stats" style="zoom:100%;" align="left"/></td>
+  </tr>
+  <tr>
     <td>
 <img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=lemon-332&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
     </td>
