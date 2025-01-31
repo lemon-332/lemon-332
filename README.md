@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>
-<img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=lemon-332&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+<img align="" width="100%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=lemon-332&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
     </td>
   </tr>
 </table>
