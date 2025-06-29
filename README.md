@@ -2,10 +2,10 @@
 - 🐕 姓名: 胡俊杰
 - 👦 性别: 男
 - 🧭 年龄: 2002
-- 🌏 现居: 湖南
+- 🌏 现居: 广州
 - 📞 手机: 13681609301
 - 🥑 csdn: [小于负无穷](https://blog.csdn.net/qq_62512874?spm=1000.2115.3001.5343)
-- 个人网站：http://junjie.space
+- 个人网站：https://junjie.space
 <img align="" width="100%" src="https://raw.githubusercontent.com/lemon-332/lemon-332/refs/heads/output/github-contribution-grid-snake.svg" />
 <table border=0>
   <tr>
